@@ -12,14 +12,14 @@ header{
 }
 
 nav{
-  line-height: 30px;
+  line-height: 100px;
   background-color: inherit;
   font-family: cursive;
   font-size: 18px;
   height: 300px;
   width: 100px;
   float:left;
-  padding: 15px;
+  padding: 5px;
 }
 
 .work {

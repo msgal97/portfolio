@@ -11,6 +11,15 @@ header{
   padding: 5px;
 }
 
+nav{
+  line-height: 30px;
+  background-color: inherit;
+  height: 300px;
+  width: 100px;
+  float:left;
+  padding: 5px;
+}
+
 .work {
    float: left;
    margin: 10px;
